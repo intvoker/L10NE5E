@@ -4,14 +4,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-10-09 16:35\n"
-"PO-Revision-Date: 2024-10-09 16:35\n"
+"POT-Creation-Date: 2024-10-09 23:45\n"
+"PO-Revision-Date: 2024-10-09 23:45\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	6C45847341630E92FA95FC9F92A13483_ECF4918B00000000
+#. SourceLocation:	/Game/Audio/DW_Sample.DW_Sample
+#. InfoMetaData:	"AudioFile" : "6C45847341630E92FA95FC9F92A13483_ECF4918B00000000.wav"
+#. InfoMetaData:	"Context" : "DV_Sample -> "
+#: /Game/Audio/DW_Sample.DW_Sample
+msgctxt "Dialogue,6C45847341630E92FA95FC9F92A13483_ECF4918B00000000"
+msgid "Spoken Text 1"
+msgstr "Spoken Text 1"
 
 #. Key:	Key1
 #. SourceLocation:	StringTables/ST_Sample.csv
