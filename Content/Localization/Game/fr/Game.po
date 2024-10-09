@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-10-09 16:35\n"
-"PO-Revision-Date: 2024-10-09 16:35\n"
+"POT-Creation-Date: 2024-10-09 16:57\n"
+"PO-Revision-Date: 2024-10-09 16:57\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: StringTables/ST_Sample.csv
 msgctxt "ST_Sample,Key1"
 msgid "Source String 1"
-msgstr ""
+msgstr "Chaîne source 1"
 
 #. Key:	Key2
 #. SourceLocation:	StringTables/ST_Sample.csv
@@ -27,5 +27,5 @@ msgstr ""
 #: StringTables/ST_Sample.csv
 msgctxt "ST_Sample,Key2"
 msgid "Source String 2"
-msgstr ""
+msgstr "Chaîne source 2"
 
