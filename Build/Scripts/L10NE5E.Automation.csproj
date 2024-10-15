@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="L10NE5E.Automation.csproj.props" Condition="Exists('L10NE5E.Automation.csproj.props')"/>
+    <Import Project="$(EngineDir)\Source\Programs\Shared\UnrealEngine.csproj.props"/>
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Configurations>Debug;Development</Configurations>
+    </PropertyGroup>
+    <ItemGroup>
+        <ProjectReference Include="$(EngineDir)\Source\Programs\AutomationTool\AutomationUtils\AutomationUtils.Automation.csproj" />
+        <ProjectReference Include="$(EngineDir)\Source\Programs\AutomationTool\Localization\Localization.Automation.csproj" />
+        <ProjectReference Include="$(EngineDir)\Source\Programs\AutomationTool\XLocLocalization\XLocLocalization.Automation.csproj" />
+    </ItemGroup>
+</Project>
